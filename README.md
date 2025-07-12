@@ -1,3 +1,4 @@
+![logo](https://github.com/altavish-tech/altavish-tech/blob/main/Screenshot%202025-05-03%20005642.png)
 <h1 align="center">Hi 👋, I'm Altavish Ansari</h1>
 <h3 align="center">A budding Java & C++ Developer from India, building real-world solutions</h3>
 
